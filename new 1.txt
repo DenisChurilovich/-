@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <TITLE>Моя первая страница </TITLE>
 </HEAD>
-</BODY><color:silver;> <font-size: 8pt>  
+<BODY style =" background-color: #F2F20C"> <font-style: italic> <font-size: 12px>
 <H1><p style ="text-align: center;"> Я, Чурилович Денич Михайлович, изучаю <span style="color: #7109AA;"> HTML </span>,CSS и JS </p><H1>
 <H2><p style ="text-align: center;"> Заголовок для всего текства </H2>
 <H3><p style ="text-align: center;"> Заголовок для 1 абзаца<H3>
