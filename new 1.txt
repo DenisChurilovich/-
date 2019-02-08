@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<HTML lang="en">
+<HEAD>
+<meta charset="UTF-8">
+<TITLE>Моя первая страница </TITLE>
+</HEAD>
+</BODY>
+<H1><p style ="text-align: center;"> Чурилович Денич Михайлович, изучаю <span style="color: #7109AA;"> HTML </span>,CSS и JS </p><H1>
+<H2><p style ="text-align: center;"> Заголовок для всего текства </H2>
+<H3><p style ="text-align: center;"> Заголовок для 1 абзаца<H3>
+<H2><strong><p style ="text-align: center;"><span style="color: #7109AA;">Три абзаца текста<span style="color: #04869E;"> (можно своя автобиография) <span> по 3–4 строки каждый абзац.</span></strong> </H2><br> 
+<H3><p style ="text-align: center;"> Заголовок для 2 абзаца<H3>
+<H3><em><p style ="text-align: center;"><span style="color: #FF6A00;">Для каждого абзаца свой шрифт, размер, цвет (тег font).</span></em><H3><br> 
+<H3><p style ="text-align: center;"> Заголовок для 3 абзаца<H3>
+<H4><del><p style ="text-align: center;"><span style="color: #0ACF00;">Для каждого абзаца придумать<span style="color: #FF6A00;"> заголовок </span> (h3), а также заголовок для всего текста (h2). Внутри каждого абзаца выделить несколько слов элементами span.</span><H4>
+ </p> <del><h2>
+</BODY>
+</HTML>
